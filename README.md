@@ -1,5 +1,6 @@
 # AWS Client VPN
-An AWS VPN client is a software application or device that enables users to securely connect to an Amazon Web Services (AWS) Virtual Private Network (VPN) to access resources and services hosted on AWS infrastructure from remote locations.
+
+AWS Client VPN endpoint is a secure gateway service that allows users to securely connect their devices to AWS resources and other networks over the internet.
 
  ![alt text](image.png)
 
