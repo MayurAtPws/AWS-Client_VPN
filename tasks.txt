@@ -1,0 +1,4 @@
+- Vpn 
+- Role based acces - aross accounts
+- lambda - pieline - commmit
+- LInux - Run levels, Max process limit per user, Create a user w / w/o user directory, Lock a user an Unlock user using ROOT
