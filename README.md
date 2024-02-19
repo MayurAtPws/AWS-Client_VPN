@@ -3,6 +3,11 @@ An AWS VPN client is a software application or device that enables users to secu
 
  ![alt text](image.png)
 
+Resources :
+1 - https://dev.to/kasukur/how-to-setup-an-aws-client-vpn-51f
+
+2 - https://devopscube.com/aws-client-vpn/
+
 ## Steps  
 
 - Create a VPC with two Private Subnets
