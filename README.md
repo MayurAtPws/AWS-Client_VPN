@@ -43,6 +43,8 @@ Resources :
  
 - Associate the VPC and Subnet after VPN endpoint creation.
 
+- Add Authorization Rule , that allows your VPC Cidr block address
+
 - Download the OVPN config File
 
 - Edit the OVPN File (Add your client crt and key)
